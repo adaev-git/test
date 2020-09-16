@@ -1,4 +1,6 @@
 #include <iostream>
+using namespace std;
+
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
@@ -7,6 +9,7 @@ int main() {
 
     a += 10;
     a += 99;
+    cout << "just say hello!" << endl;
 
     std :: cout << a << std :: endl;
     return 0;
