@@ -12,5 +12,7 @@ int main() {
     cout << "just say hello!" << endl;
 
     std :: cout << a << std :: endl;
+
+    //here my master
     return 0;
 }
